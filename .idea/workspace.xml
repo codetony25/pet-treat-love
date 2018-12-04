@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/100natural@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/amazon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/arrow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/crunch-backed-treats@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/footer-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/heart@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/join-now@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/l-arrow-blk@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/l-arrow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/love-them-back-side@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/love-them-back@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/madeUSA@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-blueberry-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-carob-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-carob@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-coconut-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-coconut@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-product-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-pumpkin-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-sweet-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-sweet@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-turkey-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ptl-turkey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r-arrow-blk@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/r-arrow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shadow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/text-logo@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu-close@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +29,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="792">
-                      <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+                    <state relative-caret-position="549">
+                      <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
                     </state>
                   </provider>
                 </entry>
@@ -78,14 +39,16 @@
           </split-first>
           <split-second>
             <leaf>
-              <file pinned="false" current-in-tab="false">
+              <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/fonts/montserrat/stylesheet.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-40" />
+                    <state relative-caret-position="85">
+                      <caret line="5" column="32" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="32" />
+                    </state>
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="true">
+              <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/fonts/veneer/stylesheet.css">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="85">
@@ -103,8 +66,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1173">
-                  <caret line="161" column="16" lean-forward="true" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
+                <state relative-caret-position="1065">
+                  <caret line="254" column="25" selection-start-line="254" selection-start-column="25" selection-end-line="254" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -116,6 +79,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>font-fa</find>
+      <find>font-size</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543890182097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543895228518" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -272,18 +236,18 @@
       <updated>1542829057188</updated>
       <workItem from="1542829060754" duration="1005000" />
       <workItem from="1543455897015" duration="3130000" />
-      <workItem from="1543884342607" duration="4866000" />
+      <workItem from="1543884342607" duration="9000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9001000" />
+    <option name="totallyTimeSpent" value="13135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17245919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17245919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,7 +265,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.11380471" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="12" />
@@ -360,11 +324,6 @@
     <entry file="file://$PROJECT_DIR$/fonts/veneer/specimen_files/grid_12-825-55-15.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/montserrat/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/veneer/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -372,17 +331,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/fonts/montserrat/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="161" column="16" lean-forward="true" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="549">
+          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="254" column="25" selection-start-line="254" selection-start-column="25" selection-end-line="254" selection-end-column="25" />
         </state>
       </provider>
     </entry>
