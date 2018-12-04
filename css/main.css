@@ -97,7 +97,70 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.main-logo img {
+    padding: 37px 12px 0 12px;
+    width: 218px;
+    height: 32px;
+}
 
+.main-hero {
+    background: center / cover no-repeat url("../img/top-bg.png");
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    height: 460px;
+    width: 100%;
+}
+
+.main-hero .main-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 75px;
+}
+
+.main-product-img {
+    height: 464px;
+    position: relative;
+    right: 70px;
+}
+
+.main-special-offer {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: 77px;
+    top: 34px;
+    z-index: 1;
+    color: #222;
+}
+
+.main-special-offer span {
+    color: #ff424b;
+}
+
+.join-now-text {
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0;
+    margin-top: -12px;
+    margin-right: 10px;
+}
+
+.main-product .join-now-arrow {
+    height: 69px;
+}
+
+.bottom-hero-img {
+    height: 81px;
+    position: relative;
+    bottom: 67px;
+    left: 107px;
+    z-index: -1;
+}
 
 
 
