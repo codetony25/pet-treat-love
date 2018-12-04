@@ -96,6 +96,9 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    overflow-x: hidden;
+}
 
 header {
     display: flex;
@@ -119,6 +122,7 @@ nav a img {
     padding-top: 37px;
 }
 
+/* Main Hero */
 .main-hero {
     background: center / cover no-repeat url("../img/top-bg.png");
     z-index: -1;
@@ -126,7 +130,7 @@ nav a img {
     width: 100%;
 }
 
-.main-hero .main-product {
+.main-hero .sub-hero {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -134,7 +138,7 @@ nav a img {
     padding-top: 75px;
 }
 
-.main-product-img {
+.sub-hero-img {
     height: 464px;
     position: relative;
     right: 70px;
@@ -161,7 +165,7 @@ nav a img {
     color: #ff424b;
 }
 
-.main-product .join-now-arrow {
+.sub-hero .join-now-arrow {
     height: 69px;
 }
 
@@ -173,6 +177,7 @@ nav a img {
     z-index: -1;
 }
 
+/* Main CTA */
 .main-cta {
     background: center / cover no-repeat url("../img/ptl-coconut-bg.png");
     width: 100%;
@@ -224,10 +229,11 @@ nav a img {
     color: white;
     text-transform: uppercase;
     margin: 0;
-    font-family: montserratbold;
+    font-family: montserratextrabold;
     position: relative;
     left: 3px;
     font-size: 14px;
+    letter-spacing: -1px;
     white-space: nowrap;
 }
 
@@ -256,6 +262,7 @@ nav a img {
     margin-bottom: -47px;
 }
 
+/* Main Facts */
 .main-facts {
     display: flex;
     flex-direction: column;
@@ -393,7 +400,91 @@ nav a img {
     transition: .3s;
 }
 
+/* Main Products */
+.main-products .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main-products .first-product {
+    background: center / cover no-repeat url("../img/ptl-carob-bg.png");
+    width: 100%;
+    height: auto;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
 
+.main-products .product-title {
+    color: #222222;
+    font-family: montserratbold;
+    font-size: 28px;
+    text-align: center;
+}
+
+.main-products .product-sub-title {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    max-width: 270px;
+    margin: 0 auto;
+}
+
+.main-products .product-img {
+    width: 250px;
+    height: auto;
+    padding-top: 30px;
+}
+
+.main-products .product-name {
+    color: #fff;
+    font-family: veneerregular;
+    font-size: 26px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.main-products .product-ingredients {
+    color: white;
+    font-family: montserratregular;
+    font-size: 15px;
+    width: 360px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.main-products .product-ingredients strong {
+    font-family: montserratbold;
+}
+
+.main-products .half-divider {
+    background: #fff;
+    width: 115px;
+    height: 3px;
+    position: relative;
+    left: -124px;
+    top: 15px;
+}
+
+.main-products .product-nutrition {
+    color: white;
+    font-family: montserratregular;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 360px;
+    margin: 0 auto;
+}
+
+.main-products .product-features {
+    display: flex;
+}
+
+.main-products .product-features .feature-list {
+    display: block;
+    justify-content: space-between;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
