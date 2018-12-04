@@ -485,6 +485,33 @@ nav a img {
     display: block;
     justify-content: space-between;
 }
+
+/* footer */
+footer .footer-slogan {
+    padding: 1px;
+    background: center / cover no-repeat url("../img/footer-bg.png");
+}
+footer .footer-slogan h3 {
+    padding: 0 30px;
+    text-align: center;
+    color: white;
+    font-family: montserratextrabold;
+    font-size: 28px;
+    font-weight: 700;
+}
+footer .footer-slogan img {
+    width: 55px;
+    height: 54px;
+}
+footer .copyright {
+    text-align: center;
+    height: 14px;
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
