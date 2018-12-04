@@ -140,6 +140,12 @@ nav a img {
     right: 70px;
 }
 
+.join-now-text-image {
+    height: 22px;
+    position: relative;
+    bottom: 8px;
+    right: 13px;
+}
 .main-special-offer {
     display: flex;
     justify-content: flex-end;
@@ -152,15 +158,6 @@ nav a img {
 
 .main-special-offer span {
     color: #ff424b;
-}
-
-.join-now-text {
-    font-family: "Open Sans";
-    font-weight: 700;
-    font-size: 18px;
-    padding: 0;
-    margin-top: -12px;
-    margin-right: 10px;
 }
 
 .main-product .join-now-arrow {
@@ -186,10 +183,11 @@ nav a img {
     padding-bottom: 23px;
 }
 
-.main-cta .natural-text {
+.main-cta .natural-img {
     padding-top: 35px;
-    width: 345px;
-    height: 145px;
+    width: 100%;
+    max-width: 345px;
+    height: auto;
 }
 
 .feature-list {
@@ -240,6 +238,8 @@ nav a img {
     text-align: center;
     line-height: 28px;
     max-width: 378px;
+    margin: 0;
+    padding-bottom: 27px;
 }
 
 .cta-button {
@@ -255,13 +255,103 @@ nav a img {
     margin-bottom: -47px;
 }
 
+.main-facts {
+    margin-top: 63px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.main-facts .available-store-img {
+    max-width: 200px;
+    height: auto;
+}
 
+.main-facts .sub-title {
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 7px;
+}
 
+.main-facts .description {
+    max-width: 495px;
+    color: #222222;
+    font-family: montserratbold;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    margin: 0;
+}
 
+.carousel {
+    padding-top: 54px;
+    width: 90%;
+    margin:0px auto;
+}
 
+.carousel .fact-container {
+    height: 274px;
+    box-shadow: 0 4px 0 #44bfff, 0 0 35px 15px rgba(34, 34, 34, 0.05);
+    background-color: #ffffff;
+    border-bottom: 3px solid #35baf1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.carousel .fact-container img {
+    width: 188px;
+    height: 176px;
+    margin-top: -18px;
+}
 
+.carousel .fact-container p {
+    max-width: 263px;
+    margin: 0 auto;
+    color: #222222;
+    font-family: montserratbold;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 22px;
+}
+
+.fact-description {
+    max-width: 757px;
+    margin: 0 auto;
+    color: #333333;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin: 0;
+    padding-top: 69px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.slick-track {
+    overflow: initial;
+}
+
+.slick-list {
+    overflow: initial;
+}
+
+.slick-prev, .slick-next {
+    z-index: 100;
+    height: 21px;
+    width: 12px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 35px 15px rgba(34, 34, 34, 0.05);
+    padding: 21px;
+    margin: 21px;
+}
 
 
 /* ==========================================================================

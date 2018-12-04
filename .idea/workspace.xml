@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/menu-close@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/menu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/slick/slick.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,16 +30,29 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43429846">
+    <splitter split-orientation="horizontal" split-proportion="0.461979">
       <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.8151062">
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="771">
+                  <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
           <split-first>
             <leaf>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/index.html">
+                <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="549">
-                      <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+                    <state relative-caret-position="982">
+                      <caret line="345" column="17" lean-forward="true" selection-start-line="345" selection-start-column="17" selection-end-line="345" selection-end-column="17" />
                     </state>
                   </provider>
                 </entry>
@@ -40,19 +62,10 @@
           <split-second>
             <leaf>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/fonts/montserrat/stylesheet.css">
+                <entry file="file://$PROJECT_DIR$/js/main.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="85">
-                      <caret line="5" column="32" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="32" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/fonts/veneer/stylesheet.css">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="85">
-                      <caret line="5" column="31" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="31" />
+                    <state relative-caret-position="391">
+                      <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
                     </state>
                   </provider>
                 </entry>
@@ -60,19 +73,6 @@
             </leaf>
           </split-second>
         </splitter>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1065">
-                  <caret line="254" column="25" selection-start-line="254" selection-start-column="25" selection-end-line="254" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
       </split-second>
     </splitter>
   </component>
@@ -80,7 +80,12 @@
     <findStrings>
       <find>font-fa</find>
       <find>font-size</find>
+      <find>join</find>
+      <find>fact-carousal</find>
     </findStrings>
+    <replaceStrings>
+      <replace>fact-carousel</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,6 +99,7 @@
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -152,6 +158,24 @@
               <item name="pet-treat-love" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pet-treat-love" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pet-treat-love" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pet-treat-love" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pet-treat-love" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pet-treat-love" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pet-treat-love" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="slick" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543895228518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543902001720" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -170,6 +194,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js/vendor/slick" />
+      <recent name="$PROJECT_DIR$/css/vendor" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$" />
@@ -236,18 +262,18 @@
       <updated>1542829057188</updated>
       <workItem from="1542829060754" duration="1005000" />
       <workItem from="1543455897015" duration="3130000" />
-      <workItem from="1543884342607" duration="9000000" />
+      <workItem from="1543884342607" duration="15273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13135000" />
+    <option name="totallyTimeSpent" value="19408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17245919" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17245919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -265,7 +291,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.11380471" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="12" />
@@ -324,13 +350,6 @@
     <entry file="file://$PROJECT_DIR$/fonts/veneer/specimen_files/grid_12-825-55-15.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/veneer/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/montserrat/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -338,17 +357,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/veneer/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        <state relative-caret-position="771">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="254" column="25" selection-start-line="254" selection-start-column="25" selection-end-line="254" selection-end-column="25" />
+        <state relative-caret-position="982">
+          <caret line="345" column="17" lean-forward="true" selection-start-line="345" selection-start-column="17" selection-end-line="345" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
