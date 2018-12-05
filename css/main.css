@@ -622,6 +622,12 @@ nav a img {
     padding: 0 95px;
 }
 
+@media (min-width: 1200px) {
+    .main-products .slick-next, .main-products .slick-prev {
+        top: 300px !important;
+    }
+}
+
 .main-products .slick-next {
     padding-right: 32px;
 }
