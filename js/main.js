@@ -35,4 +35,8 @@ $(document).ready(function(){
 		slidesToShow: 1,
 		slidesToScroll: 1,
 	});
+	
+	$('#email-submit').click(function(event) {
+		$('#email-submit').val('Code Sent!')
+	})
 });

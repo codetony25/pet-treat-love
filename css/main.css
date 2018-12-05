@@ -870,7 +870,7 @@ footer .copyright {
     color: #ff4444;
 }
 
-#mc_embed_signup input {
+#mc_embed_signup input[type=email] {
     max-width: 495px;
     height: 50px;
     border-radius: 3px;
@@ -884,7 +884,7 @@ footer .copyright {
     padding-left: 20px;
 }
 
-#mc_embed_signup button {
+#mc_embed_signup #email-submit {
     width: 190px;
     height: 54px;
     border-radius: 0 3px 3px 0;
@@ -905,7 +905,7 @@ footer .copyright {
     #mc_embed_signup {
         margin: 76px 30px;
     }
-    #mc_embed_signup input {
+    #mc_embed_signup input[type=email] {
         width: 307px;
     }
     #mc_embed_signup h2 {

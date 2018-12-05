@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +25,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="562">
-                  <caret line="468" column="39" lean-forward="true" selection-start-line="468" selection-start-column="39" selection-end-line="468" selection-end-column="39" />
+                <state relative-caret-position="816">
+                  <caret line="541" column="112" selection-start-line="541" selection-start-column="112" selection-end-line="541" selection-end-column="112" />
                   <folding>
                     <element signature="n#head#0;n#html#0;n#!!top" />
-                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -505,6 +506,7 @@
                     <element signature="n#style#0;n#p#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" />
                     <element signature="e#33101#33107#0" expanded="true" />
                     <element signature="e#33107#33113#0" expanded="true" />
                     <element signature="e#33113#33119#0" expanded="true" />
@@ -608,14 +610,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.85164493">
+        <splitter split-orientation="horizontal" split-proportion="0.6058349">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="545">
-                      <caret line="627" column="5" lean-forward="true" selection-start-line="627" selection-start-column="5" selection-end-line="627" selection-end-column="5" />
+                    <state relative-caret-position="555">
+                      <caret line="888" column="17" lean-forward="true" selection-start-line="888" selection-start-column="17" selection-end-line="888" selection-end-column="17" />
                     </state>
                   </provider>
                 </entry>
@@ -627,8 +629,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/js/main.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="408">
-                      <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+                    <state relative-caret-position="663">
+                      <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
                     </state>
                   </provider>
                 </entry>
@@ -662,6 +664,7 @@
       <find>product-im</find>
       <find>.main-products .product-img</find>
       <find>!impor</find>
+      <find>button</find>
     </findStrings>
     <replaceStrings>
       <replace>fact-carousel</replace>
@@ -677,9 +680,9 @@
         <option value="$PROJECT_DIR$/src/components/layout.js" />
         <option value="$PROJECT_DIR$/src/components/header.js" />
         <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -765,7 +768,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543990758638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543991907816" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -844,12 +847,12 @@
       <workItem from="1543455897015" duration="3130000" />
       <workItem from="1543884342607" duration="26847000" />
       <workItem from="1543945158239" duration="162000" />
-      <workItem from="1543967023195" duration="17786000" />
+      <workItem from="1543967023195" duration="19077000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48930000" />
+    <option name="totallyTimeSpent" value="50221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="6" />
@@ -946,27 +949,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="555">
+          <caret line="888" column="17" lean-forward="true" selection-start-line="888" selection-start-column="17" selection-end-line="888" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="627" column="5" lean-forward="true" selection-start-line="627" selection-start-column="5" selection-end-line="627" selection-end-column="5" />
+        <state relative-caret-position="663">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="468" column="39" lean-forward="true" selection-start-line="468" selection-start-column="39" selection-end-line="468" selection-end-column="39" />
+        <state relative-caret-position="816">
+          <caret line="541" column="112" selection-start-line="541" selection-start-column="112" selection-end-line="541" selection-end-column="112" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -1444,6 +1446,7 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="e#33101#33107#0" expanded="true" />
             <element signature="e#33107#33113#0" expanded="true" />
             <element signature="e#33113#33119#0" expanded="true" />
