@@ -512,6 +512,77 @@ footer .copyright {
     font-weight: 400;
 }
 
+/* Main Subscription */
+.main-subscription {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mc_embed_signup {
+    max-width: 880px;
+    height: auto;
+    box-shadow: 0 0 35px 15px rgba(34, 34, 34, 0.05);
+    background-color: #ffffff;
+    border-bottom: 3px solid #44bfff;
+    margin: 30px 18px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+#mc_embed_signup h2 {
+    max-width: 713px;
+    margin: 0 auto;
+    color: #222222;
+    font-family: montserratextrabold;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#mc_embed_signup h2 span {
+    color: #ff4444;
+}
+
+#mc_embed_signup input {
+    max-width: 495px;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid #dde5ed;
+    background-color: #fafbfc;
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 20px;
+}
+
+#mc_embed_signup button {
+    width: 190px;
+    height: 54px;
+    border-radius: 0 3px 3px 0;
+    color: white;
+    font-family: montserratbold;
+    background-color: #44bfff;
+}
+
+#mc_embed_signup_scroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.form-footer {
+    color: #999999;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
