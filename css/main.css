@@ -112,14 +112,40 @@ header {
 
 .main-logo img {
     padding: 37px 12px 0 12px;
-    width: 218px;
-    height: 32px;
+    width: 220px;
+    height: 34px;
 }
 
 nav a img {
     height: 34px;
     padding-right: 12px;
     padding-top: 37px;
+}
+
+
+@media (min-width: 940px) {
+    header {
+        position: absolute;
+        max-width: 940px;
+        left: 250px;
+    }
+    nav {
+        display: none;
+    }
+    .top-section {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .main-logo img {
+        position: relative;
+        right: 170px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .main-logo img {
+        position: static;
+    }
 }
 
 /* Main Hero */
@@ -177,6 +203,40 @@ nav a img {
     z-index: -1;
 }
 
+.main-cta .available-store-img {
+    display: none;
+}
+
+.bottom-hero-img-desktop {
+    display: none;
+}
+
+@media (min-width: 940px) {
+    .main-hero {
+        height: 760px;
+        max-height: 760px;
+    }
+    .sub-hero {
+        position: relative;
+        left: 300px;
+    }
+    .sub-hero-img {
+        width: 702px;
+        height: 621px;
+    }
+    .main-hero .bottom-hero-img {
+        display: none;
+    }
+    .bottom-hero-img-desktop {
+        display: block;
+        position: absolute;
+        left: -34px;
+        top: 718px;
+        width: 833px;
+        height: 115px;
+    }
+}
+
 /* Main CTA */
 .main-cta {
     background: center / cover no-repeat url("../img/ptl-coconut-bg.png");
@@ -194,6 +254,29 @@ nav a img {
     width: 100%;
     max-width: 345px;
     height: auto;
+}
+
+@media (min-width: 940px) {
+    .main-cta .available-store-img {
+        display: inline-block;
+        width: 128px;
+        height: 60px;
+        position: relative;
+        right: 125px;
+        top: 86px;
+    }
+    .main-cta {
+        position: absolute;
+        left: -207px;
+        top: -76px;
+        background: none;
+    }
+}
+
+@media (min-width: 1200px) {
+    .main-cta {
+        left: -309px;
+    }
 }
 
 .feature-list {
@@ -332,9 +415,19 @@ nav a img {
 }
 
 @media (min-width: 940px) {
+    .main-facts .available-store-img {
+        display: none;
+    }
     .carousel .fact-container.active img {
         width: 188px;
         height: 176px;
+    }
+    .main-facts .description {
+        padding-bottom: 50px;
+        max-width: 650px !important;
+    }
+    .fact-description {
+        padding-top: 0 !important;
     }
 }
 
@@ -405,13 +498,35 @@ nav a img {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.main-products .first-product {
-    background: center / cover no-repeat url("../img/ptl-carob-bg.png");
+    position: relative;
     width: 100%;
     height: auto;
     padding-bottom: 30px;
     padding-top: 50px;
+}
+
+@media (min-width: 940px) {
+    .main-products .product {
+        flex-direction: row;
+    }
+}
+
+.main-products .side-img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.main-products .first-product {
+    background: center / cover no-repeat url("../img/ptl-carob-bg.png");
+}
+
+.main-products .second-product {
+    background: center / cover no-repeat url("../img/ptl-pumpkin-bg.png");
+}
+
+.main-products .third-product {
+    background: center / cover no-repeat url("../img/ptl-turkey-bg.png");
 }
 
 .main-products .product-title {
@@ -435,6 +550,7 @@ nav a img {
     width: 250px;
     height: auto;
     padding-top: 30px;
+    position: relative;
 }
 
 .main-products .product-name {
@@ -463,8 +579,7 @@ nav a img {
     width: 115px;
     height: 3px;
     position: relative;
-    left: -124px;
-    top: 15px;
+    margin: 12px 20px;
 }
 
 .main-products .product-nutrition {
@@ -484,6 +599,130 @@ nav a img {
 .main-products .product-features .feature-list {
     display: block;
     justify-content: space-between;
+}
+
+.main-products .slick-next, .main-products .slick-prev {
+    background: none;
+    box-shadow: none;
+    width: 36px;
+    height: 72px;
+    top: 350px !important;
+    padding: 0 95px;
+}
+
+.main-products .slick-next {
+    padding-right: 32px;
+}
+
+.main-products .slick-prev {
+    padding-left: 32px;
+}
+
+.main-products .product-title-desktop {
+    color: #222222;
+    font-family: montserratbold;
+    font-size: 38px;
+    text-align: center;
+}
+
+.main-products .top-message-desktop {
+    display: none;
+}
+
+.main-products .product-nutrition-desktop {
+    display: none;
+}
+
+.main-products .product-info p {
+    font-size: 13px;
+}
+
+@media (min-width: 940px) {
+    .main-products .product {
+        padding-bottom: 45px;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .main-products .product-nutrition-desktop {
+        display: block;
+    }
+    .main-products .top-message-desktop {
+        display: block;
+    }
+    .main-products .product-nutrition-mobile {
+        display: none;
+    }
+    .main-products .half-divider {
+        margin: 12px 88px;
+    }
+    .main-products .top-message {
+        display: none;
+    }
+    .main-products .product-img {
+        width: 431px;
+        height: 528px;
+    }
+    .main-products .product-title {
+        font-size: 38px;
+    }
+    .main-products .product-features {
+        position: relative;
+        left: 45px;
+    }
+}
+
+@media (min-width: 1444px) {
+    .main-products .product-name {
+        font-size: 30px;
+    }
+    .main-products .product-container {
+        position: relative;
+    }
+    .main-products .product-title-desktop {
+        margin: 0;
+        padding-bottom: 10px;
+    }
+    .main-products .product-sub-title {
+        max-width: initial;
+        position: relative;
+        left: -45px;
+    }
+    .main-products .half-divider {
+        display: none;
+    }
+    .main-products .product-info {
+        display: flex;
+    }
+    .main-products .product-info p {
+        font-size: 13px;
+    }
+    .main-products .product-img {
+        left: 100px;
+    }
+    .main-products .product-features {
+        max-width: 500px;
+        left: 0;
+    }
+    .main-products .product-nutrition-desktop {
+        width: initial;
+        padding-top: 12px;
+    }
+    .main-products .product-first-info .product-ingredients {
+        width: 105px;
+    }
+    .main-products .product-first-info {
+        order: 1;
+    }
+    .main-products .product-second-info {
+        width: 195px;
+        order: 3;
+    }
+    .main-products .product-second-info p {
+        width: 175px;
+    }
+    .main-products .product-third-info {
+        order: 2;
+    }
 }
 
 /* footer */
@@ -510,6 +749,17 @@ footer .copyright {
     font-family: "Open Sans";
     font-size: 14px;
     font-weight: 400;
+}
+
+@media (min-width: 940px) {
+    footer .footer-slogan h3 {
+        font-size: 64px;
+    }
+
+    footer .footer-slogan img {
+        width: 85px;
+        height: 84px;
+    }
 }
 
 /* Main Subscription */
@@ -574,6 +824,15 @@ footer .copyright {
     justify-content: center;
     margin-top: 30px;
     margin-bottom: 25px;
+}
+
+@media (min-width: 940px) {
+    #mc_embed_signup input {
+        width: 307px;
+    }
+    #mc_embed_signup h2 {
+        font-size: 45px;
+    }
 }
 
 .form-footer {
