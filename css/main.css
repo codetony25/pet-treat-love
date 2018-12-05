@@ -529,6 +529,18 @@ nav a img {
     background: center / cover no-repeat url("../img/ptl-turkey-bg.png");
 }
 
+.main-products .fourth-product {
+    background: center / cover no-repeat url("../img/ptl-blueberry-bg.png");
+}
+
+.main-products .fifth-product {
+    background: center / cover no-repeat url("../img/ptl-coconut-bg.png");
+}
+
+.main-products .sixth-product {
+    background: center / cover no-repeat url("../img/ptl-sweet-bg.png");
+}
+
 .main-products .product-title {
     color: #222222;
     font-family: montserratbold;
@@ -645,6 +657,7 @@ nav a img {
     }
     .main-products .product-nutrition-desktop {
         display: block;
+        padding-top: 20px;
     }
     .main-products .top-message-desktop {
         display: block;
@@ -659,8 +672,8 @@ nav a img {
         display: none;
     }
     .main-products .product-img {
-        width: 431px;
-        height: 528px;
+        width: 348px;
+        height: 524px;
     }
     .main-products .product-title {
         font-size: 38px;
@@ -674,6 +687,38 @@ nav a img {
 @media (min-width: 1444px) {
     .main-products .product-name {
         font-size: 30px;
+        position: relative;
+        top: 51px;
+        margin-top: 0;
+    }
+    .main-products .product-name .left-line, .main-products .product-name .right-line {
+        background: white;
+        width: 186px;
+        height: 4px;
+        display: inline-flex;
+        position: relative;
+        bottom: 9px;
+    }
+    .main-products .product-name .left-line.turkey, .main-products .product-name .right-line.turkey {
+        width: 240px;
+    }
+    .main-products .product-name .left-line.pumpkin, .main-products .product-name .right-line.pumpkin {
+        width: 220px;
+    }
+    .main-products .product-name .left-line.blueberry, .main-products .product-name .right-line.blueberry {
+        width: 208px;
+    }
+    .main-products .product-name .left-line.tropical, .main-products .product-name .right-line.tropical {
+        width: 216px;
+    }
+    .main-products .product-name .left-line.potato, .main-products .product-name .right-line.potato {
+        width: 241px;
+    }
+    .main-products .product-name .left-line {
+        right: 3px;
+    }
+    .main-products .product-name .right-line {
+        left: 3px;
     }
     .main-products .product-container {
         position: relative;
@@ -690,8 +735,26 @@ nav a img {
     .main-products .half-divider {
         display: none;
     }
+    .main-products .feature-list {
+        padding-top: 0;
+    }
+    .main-products .feature p {
+        font-size: 16px;
+        font-family: montserratbold;
+    }
     .main-products .product-info {
         display: flex;
+        border-left: 4px solid white;
+        border-bottom: 4px solid white;
+        border-right: 4px solid white;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 25px;
+        padding-bottom: 40px;
+    }
+    .main-products .feature .feature-img {
+        height: 22px;
+        width: 22px;
     }
     .main-products .product-info p {
         font-size: 13px;
@@ -703,12 +766,18 @@ nav a img {
         max-width: 500px;
         left: 0;
     }
+    .main-products .product-first-info, .main-products .product-third-info {
+        border-right: 4px solid white;
+    }
     .main-products .product-nutrition-desktop {
         width: initial;
         padding-top: 12px;
+        position: relative;
+        bottom: 40px;
+        font-size: 12px;
     }
     .main-products .product-first-info .product-ingredients {
-        width: 105px;
+        width: 110px;
     }
     .main-products .product-first-info {
         order: 1;
@@ -827,6 +896,9 @@ footer .copyright {
 }
 
 @media (min-width: 940px) {
+    #mc_embed_signup {
+        margin: 76px 30px;
+    }
     #mc_embed_signup input {
         width: 307px;
     }
