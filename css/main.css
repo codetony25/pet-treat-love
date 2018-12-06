@@ -142,6 +142,7 @@ header nav img {
 
 @media (max-width: 940px) {
     header {
+        top: 25px;
         justify-content: space-between !important;
     }
     header .main-logo img {
@@ -153,10 +154,6 @@ header nav img {
         position: relative;
         right: 15px;
     }
-}
-
-@media (min-width: 1200px) {
-
 }
 
 @media (max-width: 940px) {
@@ -211,6 +208,10 @@ header nav img {
     display: none;
 }
 
+.mobile-special-offer-img {
+    display: none;
+}
+
 @media (max-width: 940px) {
     .main-hero {
         flex-direction: column;
@@ -236,6 +237,12 @@ header nav img {
         justify-content: center;
         padding-bottom: 25px;
     }
+    .mobile-special-offer-img {
+        display: initial;
+        position: relative;
+        left: 80px;
+        bottom: 8px;
+    }
     .mobile-cta .cta-button {
         position: relative;
         top: 25px;
@@ -254,9 +261,9 @@ header nav img {
     .special-offer .sub-hero-img {
         display: block;
         width: 135%;
-        max-width: 900px;
+        max-width: 550px;
         position: relative;
-        right: 100px;
+        right: 80px;
     }
     .available-store-img {
         display: none;
@@ -270,6 +277,13 @@ header nav img {
     .main-facts .available-store-img {
         margin: 0 auto;
         margin-top: 30px;
+    }
+}
+
+@media (min-width: 485px) {
+    .mobile-special-offer-img {
+        left: 200px !important;
+        bottom: 0 !important;
     }
 }
 

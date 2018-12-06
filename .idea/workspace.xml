@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blueberry-blue.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pumpkin-apple-yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet-carob-green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sweet-potato.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tropical-coconut-blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/turkey-bacon-brown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +24,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="746">
-                  <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+                <state relative-caret-position="820">
+                  <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="e#7057#7063#0" expanded="true" />
@@ -137,8 +132,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="119">
-                      <caret line="719" column="1" lean-forward="true" selection-start-line="719" selection-start-column="1" selection-end-line="719" selection-end-column="1" />
+                    <state relative-caret-position="912">
+                      <caret line="285" column="17" selection-start-line="285" selection-start-column="17" selection-end-line="285" selection-end-column="17" />
                     </state>
                   </provider>
                 </entry>
@@ -164,8 +159,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.main-products .pro</find>
-      <find>.product-img</find>
       <find>.main-products .product-nutrition-desktop</find>
       <find>product-im</find>
       <find>.main-products .product-img</find>
@@ -194,6 +187,8 @@
       <find>top: 25px</find>
       <find>padding-bottom: 65</find>
       <find>30px auto 70px auto</find>
+      <find>.special-offer .sub-hero-img {</find>
+      <find>.mobile-s[e</find>
     </findStrings>
     <replaceStrings>
       <replace>fact-carousel</replace>
@@ -211,8 +206,8 @@
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/js/vendor/slick/slick.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -379,12 +374,12 @@
       <workItem from="1543945158239" duration="162000" />
       <workItem from="1543967023195" duration="23422000" />
       <workItem from="1544028247194" duration="571000" />
-      <workItem from="1544059734926" duration="15106000" />
+      <workItem from="1544059734926" duration="16388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70243000" />
+    <option name="totallyTimeSpent" value="71525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="0" />
@@ -495,10 +490,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="285" column="17" selection-start-line="285" selection-start-column="17" selection-end-line="285" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+        <state relative-caret-position="820">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#7057#7063#0" expanded="true" />
@@ -583,13 +585,6 @@
             <element signature="n#style#0;n#p#0;n#div#1;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="719" column="1" lean-forward="true" selection-start-line="719" selection-start-column="1" selection-end-line="719" selection-end-column="1" />
         </state>
       </provider>
     </entry>
