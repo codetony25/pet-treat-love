@@ -439,6 +439,10 @@ header nav img {
     height: 176px;
 }
 
+.main-facts-desktop {
+    display: none;
+}
+
 @media (min-width: 940px) {
     .main-facts {
         display: none;
@@ -534,7 +538,7 @@ header nav img {
         width: 144px;
         height: 133px;
         margin: 0 auto;
-        transition: .3s;
+        transition: .5s;
     }
     .main-facts .available-store-img {
         display: none;
