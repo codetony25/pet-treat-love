@@ -324,9 +324,8 @@ header nav img {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    max-width: 462px;
     padding-top: 30px;
-    flex-wrap: wrap;
+    max-width: 412px;
 }
 
 .feature {
@@ -516,7 +515,7 @@ header nav img {
         font-weight: 400;
         line-height: 30px;
         text-align: center;
-        margin: 0 auto 70px auto;
+        margin: 40px auto 70px auto;
     }
     .main-facts-desktop .fact-container {
         padding: 18px;
