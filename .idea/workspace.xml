@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-carob@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-carob@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-coconut@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-coconut@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-sweet@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-sweet@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-turkey@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-turkey@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +30,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="769">
-                  <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+                <state relative-caret-position="743">
+                  <caret line="90" column="73" lean-forward="true" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
                 </state>
               </provider>
             </entry>
@@ -48,8 +54,9 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="477">
-                      <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
+                    <state relative-caret-position="959">
+                      <caret line="548" column="22" selection-start-line="548" selection-start-column="22" selection-end-line="548" selection-end-column="22" />
+                      <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
                     </state>
                   </provider>
                 </entry>
@@ -75,12 +82,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>product-im</find>
-      <find>.main-products .product-img</find>
-      <find>!impor</find>
-      <find>button</find>
-      <find>.main-sp</find>
-      <find>h2</find>
       <find>.main-products .sli</find>
       <find>.slick</find>
       <find>slick-list</find>
@@ -105,6 +106,12 @@
       <find>.special-offer .sub-hero-img {</find>
       <find>.mobile-s[e</find>
       <find>.main-h</find>
+      <find>sub-hero-</find>
+      <find>button</find>
+      <find>550p</find>
+      <find>.main-products .product-img</find>
+      <find>.main-facts-desktop .fact-container</find>
+      <find>line-height: 45</find>
     </findStrings>
     <replaceStrings>
       <replace>fact-carousel</replace>
@@ -291,12 +298,12 @@
       <workItem from="1543967023195" duration="23422000" />
       <workItem from="1544028247194" duration="571000" />
       <workItem from="1544059734926" duration="17439000" />
-      <workItem from="1544246272200" duration="119000" />
+      <workItem from="1544246272200" duration="3452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72695000" />
+    <option name="totallyTimeSpent" value="76028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="0" />
@@ -409,15 +416,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="310" column="1" lean-forward="true" selection-start-line="310" selection-start-column="1" selection-end-line="310" selection-end-column="1" />
+        <state relative-caret-position="959">
+          <caret line="548" column="22" selection-start-line="548" selection-start-column="22" selection-end-line="548" selection-end-column="22" />
+          <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+        <state relative-caret-position="743">
+          <caret line="90" column="73" lean-forward="true" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
         </state>
       </provider>
     </entry>
