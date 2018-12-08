@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-carob@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-carob@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-coconut@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-coconut@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-sweet@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-sweet@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ptl-turkey@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-turkey@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +24,30 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="743">
-                  <caret line="90" column="73" lean-forward="true" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
+                <state relative-caret-position="695">
+                  <caret line="171" column="45" lean-forward="true" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
+                  <folding>
+                    <element signature="e#9162#9168#0" expanded="true" />
+                    <element signature="e#9168#9174#0" expanded="true" />
+                    <element signature="e#9174#9180#0" expanded="true" />
+                    <element signature="e#9392#9398#0" expanded="true" />
+                    <element signature="e#9398#9404#0" expanded="true" />
+                    <element signature="e#9404#9410#0" expanded="true" />
+                    <element signature="e#9452#9458#0" expanded="true" />
+                    <element signature="e#9636#9642#0" expanded="true" />
+                    <element signature="e#9642#9648#0" expanded="true" />
+                    <element signature="e#9648#9654#0" expanded="true" />
+                    <element signature="e#9708#9714#0" expanded="true" />
+                    <element signature="e#9876#9882#0" expanded="true" />
+                    <element signature="e#9882#9888#0" expanded="true" />
+                    <element signature="e#9888#9894#0" expanded="true" />
+                    <element signature="e#10128#10134#0" expanded="true" />
+                    <element signature="e#10134#10140#0" expanded="true" />
+                    <element signature="e#10140#10146#0" expanded="true" />
+                    <element signature="e#10361#10367#0" expanded="true" />
+                    <element signature="e#10367#10373#0" expanded="true" />
+                    <element signature="e#10373#10379#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -54,9 +70,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="959">
-                      <caret line="548" column="22" selection-start-line="548" selection-start-column="22" selection-end-line="548" selection-end-column="22" />
-                      <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
+                    <state relative-caret-position="466">
+                      <caret line="749" column="8" selection-start-line="749" selection-start-column="8" selection-end-line="749" selection-end-column="8" />
                     </state>
                   </provider>
                 </entry>
@@ -68,8 +83,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/js/main.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="187">
-                      <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+                    <state relative-caret-position="272">
+                      <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
                     </state>
                   </provider>
                 </entry>
@@ -82,10 +97,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.main-products .sli</find>
-      <find>.slick</find>
-      <find>slick-list</find>
-      <find>cta-b</find>
       <find>width:</find>
       <find>.main-fa</find>
       <find>slick</find>
@@ -112,6 +123,10 @@
       <find>.main-products .product-img</find>
       <find>.main-facts-desktop .fact-container</find>
       <find>line-height: 45</find>
+      <find>.feature-list</find>
+      <find>#mc_</find>
+      <find>.main-products .product-nutrition</find>
+      <find>.main-products .product-title</find>
     </findStrings>
     <replaceStrings>
       <replace>fact-carousel</replace>
@@ -129,14 +144,14 @@
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/js/vendor/slick/slick.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1352" />
-    <option name="y" value="1463" />
+    <option name="x" value="-1323" />
+    <option name="y" value="1465" />
     <option name="width" value="3840" />
     <option name="height" value="1577" />
   </component>
@@ -298,15 +313,15 @@
       <workItem from="1543967023195" duration="23422000" />
       <workItem from="1544028247194" duration="571000" />
       <workItem from="1544059734926" duration="17439000" />
-      <workItem from="1544246272200" duration="3452000" />
+      <workItem from="1544246272200" duration="5110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76028000" />
+    <option name="totallyTimeSpent" value="77686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1352" y="1463" width="3840" height="1577" extended-state="0" />
+    <frame x="-1323" y="1465" width="3840" height="1577" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17640863" />
@@ -409,23 +424,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="959">
-          <caret line="548" column="22" selection-start-line="548" selection-start-column="22" selection-end-line="548" selection-end-column="22" />
-          <caret line="581" column="22" selection-start-line="581" selection-start-column="22" selection-end-line="581" selection-end-column="22" />
+        <state relative-caret-position="466">
+          <caret line="749" column="8" selection-start-line="749" selection-start-column="8" selection-end-line="749" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="90" column="73" lean-forward="true" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
+        <state relative-caret-position="695">
+          <caret line="171" column="45" lean-forward="true" selection-start-line="171" selection-start-column="45" selection-end-line="171" selection-end-column="45" />
+          <folding>
+            <element signature="e#9162#9168#0" expanded="true" />
+            <element signature="e#9168#9174#0" expanded="true" />
+            <element signature="e#9174#9180#0" expanded="true" />
+            <element signature="e#9392#9398#0" expanded="true" />
+            <element signature="e#9398#9404#0" expanded="true" />
+            <element signature="e#9404#9410#0" expanded="true" />
+            <element signature="e#9452#9458#0" expanded="true" />
+            <element signature="e#9636#9642#0" expanded="true" />
+            <element signature="e#9642#9648#0" expanded="true" />
+            <element signature="e#9648#9654#0" expanded="true" />
+            <element signature="e#9708#9714#0" expanded="true" />
+            <element signature="e#9876#9882#0" expanded="true" />
+            <element signature="e#9882#9888#0" expanded="true" />
+            <element signature="e#9888#9894#0" expanded="true" />
+            <element signature="e#10128#10134#0" expanded="true" />
+            <element signature="e#10134#10140#0" expanded="true" />
+            <element signature="e#10140#10146#0" expanded="true" />
+            <element signature="e#10361#10367#0" expanded="true" />
+            <element signature="e#10367#10373#0" expanded="true" />
+            <element signature="e#10373#10379#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

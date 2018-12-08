@@ -14,6 +14,7 @@ $(document).ready(function(){
 			{
 				breakpoint: 940,
 				settings: {
+					centerPadding: '0px',
 					slidesToShow: 1,
 					slidesToScroll: 1,
 				}
