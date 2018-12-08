@@ -307,6 +307,7 @@ header nav img {
 
 .main-hero {
     background: center bottom / cover no-repeat url("../img/top-bg.png");
+    background-position-y: -55px;
 }
 
 .main-hero .top-bg {
