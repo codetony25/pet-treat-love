@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/100natural@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/100natural@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/amazon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/amazon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/arrow@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crunch-backed-treats@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/crunch-backed-treats@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/footer-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/footer-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/heart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/heart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/heart@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/heart@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/l-arrow@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/l-arrow@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/love-them-back-side@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/love-them-back-side@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/love-them-back@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/love-them-back@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/madeUSA@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/madeUSA@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-hero-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-hero-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu-close@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu-close@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-blueberry-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-blueberry-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-blueberry1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-blueberry1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-blueberry@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-carob-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-carob-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-carob1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-carob1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-carob@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-carob@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-coconut-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-coconut-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-coconut1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-coconut1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-coconut@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-coconut@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-product-header.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-product-header.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-pumpkin-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-pumpkin-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-pumpkin1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-pumpkin1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-pumpkin@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-sweet-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-sweet-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-sweet1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-sweet1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-sweet@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-sweet@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-turkey-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-turkey-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-turkey1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-turkey1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ptl-turkey@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ptl-turkey@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/r-arrow@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/r-arrow@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shadow@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/shadow@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/special-offer.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/special-offer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/text-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/text-logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/top-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/top-bg.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +61,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="797">
-                  <caret line="177" column="26" lean-forward="true" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
+                <state relative-caret-position="1103">
+                  <caret line="195" column="46" lean-forward="true" selection-start-line="195" selection-start-column="46" selection-end-line="195" selection-end-column="46" />
                   <folding>
                     <element signature="e#9162#9168#0" expanded="true" />
                     <element signature="e#9168#9174#0" expanded="true" />
@@ -71,7 +108,7 @@
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="562">
-                      <caret line="401" column="21" lean-forward="true" selection-start-line="401" selection-start-column="21" selection-end-line="401" selection-end-column="21" />
+                      <caret line="401" column="21" selection-start-line="401" selection-start-column="21" selection-end-line="401" selection-end-column="21" />
                     </state>
                   </provider>
                 </entry>
@@ -315,12 +352,12 @@
       <workItem from="1544059734926" duration="17439000" />
       <workItem from="1544246272200" duration="5441000" />
       <workItem from="1544325696569" duration="2192000" />
-      <workItem from="1544381990170" duration="1075000" />
+      <workItem from="1544381990170" duration="1856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81284000" />
+    <option name="totallyTimeSpent" value="82065000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1352" y="1463" width="3840" height="1577" extended-state="6" />
@@ -434,14 +471,14 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="562">
-          <caret line="401" column="21" lean-forward="true" selection-start-line="401" selection-start-column="21" selection-end-line="401" selection-end-column="21" />
+          <caret line="401" column="21" selection-start-line="401" selection-start-column="21" selection-end-line="401" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="177" column="26" lean-forward="true" selection-start-line="177" selection-start-column="26" selection-end-line="177" selection-end-column="26" />
+        <state relative-caret-position="1103">
+          <caret line="195" column="46" lean-forward="true" selection-start-line="195" selection-start-column="46" selection-end-line="195" selection-end-column="46" />
           <folding>
             <element signature="e#9162#9168#0" expanded="true" />
             <element signature="e#9168#9174#0" expanded="true" />
