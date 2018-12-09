@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d3cef7c-1de4-4ab9-aab3-95ea23bbe8dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +23,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="831">
-                  <caret line="179" column="118" selection-start-line="179" selection-start-column="118" selection-end-line="179" selection-end-column="118" />
+                <state relative-caret-position="287">
+                  <caret line="147" column="112" lean-forward="true" selection-start-line="147" selection-start-column="112" selection-end-line="147" selection-end-column="112" />
                   <folding>
                     <element signature="e#9162#9168#0" expanded="true" />
                     <element signature="e#9168#9174#0" expanded="true" />
@@ -70,8 +69,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/main.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="831">
-                      <caret line="979" column="24" selection-start-line="979" selection-start-column="24" selection-end-line="979" selection-end-column="24" />
+                    <state relative-caret-position="594">
+                      <caret line="1093" column="30" lean-forward="true" selection-start-line="1093" selection-start-column="30" selection-end-line="1093" selection-end-column="30" />
                     </state>
                   </provider>
                 </entry>
@@ -314,18 +313,18 @@
       <workItem from="1544028247194" duration="571000" />
       <workItem from="1544059734926" duration="17439000" />
       <workItem from="1544246272200" duration="5441000" />
-      <workItem from="1544325696569" duration="1094000" />
+      <workItem from="1544325696569" duration="1654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79111000" />
+    <option name="totallyTimeSpent" value="79671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1317" y="1463" width="3840" height="1577" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17719853" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17719853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -343,7 +342,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.11380471" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.14410774" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="12" />
@@ -430,17 +429,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="979" column="24" selection-start-line="979" selection-start-column="24" selection-end-line="979" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="179" column="118" selection-start-line="179" selection-start-column="118" selection-end-line="179" selection-end-column="118" />
+        <state relative-caret-position="287">
+          <caret line="147" column="112" lean-forward="true" selection-start-line="147" selection-start-column="112" selection-end-line="147" selection-end-column="112" />
           <folding>
             <element signature="e#9162#9168#0" expanded="true" />
             <element signature="e#9168#9174#0" expanded="true" />
@@ -463,6 +455,13 @@
             <element signature="e#10367#10373#0" expanded="true" />
             <element signature="e#10373#10379#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="1093" column="30" lean-forward="true" selection-start-line="1093" selection-start-column="30" selection-end-line="1093" selection-end-column="30" />
         </state>
       </provider>
     </entry>

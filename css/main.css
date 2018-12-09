@@ -1072,7 +1072,7 @@ footer .copyright {
 #mc_embed_signup input[type=email] {
     max-width: 495px;
     height: 49px;
-    width: 88%;
+    width: 80vw;
     border-radius: 3px;
     border: 1px solid #dde5ed;
     background-color: #fafbfc;
@@ -1086,7 +1086,7 @@ footer .copyright {
 }
 
 #mc_embed_signup #email-submit {
-    width: 115%;
+    width: 85vw;
     height: 54px;
     border-radius: 0 3px 3px 0;
     color: white;
@@ -1100,8 +1100,20 @@ footer .copyright {
     justify-content: center;
     margin-top: 30px;
     margin-bottom: 25px;
+    flex-direction: column;
 }
 
+@media (min-width: 434px) {
+    #mc_embed_signup #email-submit {
+        width: 115%;
+    }
+    #mc_embed_signup_scroll {
+        flex-direction: row;
+    }
+    #mc_embed_signup input[type=email] {
+        width: 88%;
+    }
+}
 @media (min-width: 940px) {
     #mc_embed_signup {
         margin: 76px 30px;
